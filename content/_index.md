@@ -26,11 +26,11 @@ template = "hero-section"
 background_style = "Light"
 button_text = ""
 button_url = ""
-content = "[Bulma](https://bulma.io/) is a modern, responsive CSS framework with a flexbox-based grid system. "
-heading = "Built With Bulma"
+content = "Puedes tener la certeza de que estaremos dedicados a que tu\nempresa crezca porque nuestro éxito depende del tuyo."
+heading = "¿Porqué Interastar?"
 image = "/uploads/2018/04/19/bulma-logo.png"
 image_position = "Left"
-image_shadow = false
+image_shadow = true
 subheading = ""
 template = "media-feature"
 [[blocks]]
