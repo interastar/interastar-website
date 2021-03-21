@@ -4,6 +4,22 @@ auto_deploy: true
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: demo
+  label: Demo
+  match: "**/*"
+- type: document
+  path: nosotros
+  label: Nosotros
+  match: "**/*"
+- type: document
+  path: servicios
+  label: Servicios
+  match: "**/*"
+- type: document
+  path: ''
+  label: Home
+  match: "**/*"
 - type: directory
   path: data
   label: Data-test
