@@ -11,7 +11,7 @@ size = "Big"
 subheading = "Hello!"
 template = "hero-section"
 [[blocks]]
-content = "**Sawmill** is a simplistic Hugo theme built to take advantage of [Forestry CMS](https://forestry.io \"Forestry.io\")'s Blocks feature.\n\nThis theme includes a few basic components to get started with Blocks right away and create dynamic, visually interesting layouts. Once you get the hang of Sawmill's modular content strategy, you are encouraged to start creating your own components to fit the needs of your website."
+content = "La **transformación digital** es más que usar nuevas tecnologías. Nosotros entendemos lo que se necesita para llevar a tu empresa al siguiente nivel. Con las bases necesarias, empoderamos a tu equipo con herramientas de gestión de negocio y CX en la nube."
 template = "body-copy"
 [[blocks]]
 background_image = ""
